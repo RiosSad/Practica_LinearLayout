@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Francisco Rios</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">
+        Hola mi nombre es Francisco Rios
+        \n\n Naci el 30 de Abril del 2001
+        \n En Acambaro Guanajuato
+        \n Tengo 21 Años
+    \n\n Me gusta mucho mi novia Fatima y las papas a la francesa c:
+        \n\n Me gustan los videojuegos en especial
+        Fortnite, ya que lo juego con mis amigos
+        \n\n Odio las matematicas c:
+        \n\n Tengo un perro
+        \n\n En este momento tengo hambre
+        \n\n Ahorita ire por cena, justamente unas papas a la francesa
+        \n\n Texto De Relleno
+                \n\n Texto De Relleno
+                \n\n Texto De Relleno
+                \n\n Texto De Relleno
+        \n\n Texto De Relleno
+        \n\n Texto De Relleno
+
+
+
+
+
+
+    </string>
+</resources>
